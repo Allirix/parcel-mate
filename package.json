@@ -1,15 +1,15 @@
 {
-  "name": "react-pwa",
+  "name": "parcel-mate",
   "version": "2.1.0",
-  "description": "Starter kit for modern web applications",
-  "homepage": "https://react-pwa.surenatoyan.com/",
+  "description": "Parcel Mate is a reliable parcel ID & route planning app built w/ React & Google Maps. Provides real-time updates & easy route planning. PWA enabled. Helps keep track of deliveries efficiently, ideal for small business owners or personal use.",
+  "homepage": "https://www.parcel-mate.com/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/suren-atoyan/react-pwa.git"
+    "url": "https://github.com/Allirix/parcel-mate.git"
   },
   "bugs": {
-    "url": "https://github.com/suren-atoyan/react-pwa/issues",
-    "email": "contact@surenatoyan.com"
+    "url": "https://github.com/Allirix/parcel-mate/issues",
+    "email": "david.hampton@hotmail.com"
   },
   "license": "MIT",
   "scripts": {
@@ -65,14 +65,14 @@
     ]
   },
   "author": {
-    "name": "Suren Atoyan",
-    "email": "contact@surenatoyan.com",
-    "url": "http://surenatoyan.com/"
+    "name": "David Hampton",
+    "email": "david.hampton@hotmail.com",
+    "url": "http://parcel-mate.com/"
   },
   "keywords": [
     "react",
     "pwa",
-    "starter-kit",
+    "delivery-software",
     "vite"
   ]
 }
