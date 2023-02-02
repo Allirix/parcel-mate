@@ -12,6 +12,9 @@ import Notifications from '@/sections/Notifications';
 import SW from '@/sections/SW';
 import Sidebar from '@/sections/Sidebar';
 
+import './index.css';
+import Bottombar from './sections/Bottombar';
+
 function App() {
   return (
     <Fragment>
@@ -23,6 +26,7 @@ function App() {
         <Header />
         <Sidebar />
         <Pages />
+        <Bottombar />
       </BrowserRouter>
     </Fragment>
   );
