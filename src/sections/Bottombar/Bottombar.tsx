@@ -6,10 +6,10 @@ import BottomNavigation from '@mui/material/BottomNavigation';
 import BottomNavigationAction from '@mui/material/BottomNavigationAction';
 import Box from '@mui/material/Box';
 
-import useBottombar from '@/store/bottombar';
+import useBottombar from '@/hooks/useBottombar';
 
 export default function Bottombar() {
-  const [value, onChange] = useBottombar();
+  const { value, onChange } = useBottombar();
 
   return (
     <Box sx={{ flexGrow: 1 }}>
